@@ -1,8 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=zzy-33&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
   
-### Hi there  🌅
-- :orange_book: 技术博客：https://neowho.blog.csdn.net
+### 你好，世界 👋
+---
+- :orange_book: Focusing on Koltin & Android & React Native
  
-- :hammer:  个人网站：http://www.neowho.cc
+- :hammer:  Creator of applications
  
-- :meat_on_bone: 极客官网：http://www.jkvipedu.com
+- :meat_on_bone: Meat Lover
+
+---
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=zzy-33&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
